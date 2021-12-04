@@ -13,7 +13,7 @@
 <p>I love to scout out innovative and technological stuff and put my hands on it. My attentiveness towards creativity and designing is at the peak.</p>
 
 > I believe that : <br>
-> Cretivity + Design proliferate Innovation
+> Creativity + Design proliferate Innovation
 
 <br>
 
