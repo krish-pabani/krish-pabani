@@ -20,7 +20,7 @@
 _Quick Facts_ ⚡ 
 - 💡 I love innovation and new technologies
 - 🚀 I am adventurous person
-- 💟 ~ Apple ~ Design ~ Sleep 😴
+- 💟 Design ~ Sleep 😴
 - 📝 Checkout my [Resume](https://github.com/krish-pabani/krish-pabani/blob/main/document/Krish%20Resume.pdf)
 - 📮 Ping my [Inbox](mailto:krishpabani73@gmail.com)
 
