@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/krish-pabani/krish-pabani/blob/main/assets/Krish%20Memoj.png" alt="html5" width="150" height="150"/> </p>
+<p align="center"> <img src="https://github.com/krish-pabani/krish-pabani/blob/main/assets/Krish%20Memoji.png" alt="html5" width="150" height="150"/> </p>
 <h3><pre align="center"><b>Hello,  I'm Krish Pabani, Welcome to my GitHub</b></pre></h3>
 
 <h2 align="center"> 👤  Know Me. </h2>
