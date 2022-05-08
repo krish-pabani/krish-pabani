@@ -5,7 +5,7 @@
 
 <p>I am creative and passionate designer & developer, 🎓 Pursuing my Bachelors in Computer Science and Engineering from  Devang Patel Institute Of Advance Technology and Research - CHARUSAT UNIVERSITY.</p>
 
-- 🎨 Designer at [DSC CHARUSAT](https://dsc-charusat.web.app/team)         [ April 2020 - Present ]
+- 🎨 Designer at [DSC CHARUSAT](https://dsc-charusat.web.app/team)         [ April 2020 - March 2021 ]
 - 😇 [IEEE DEPSTAR](https://edu.ieee.org/in-depstar/) Student Branch Executive Committee Member         [ Feb 2020 - Jan 2021 ]
 
 <br>
